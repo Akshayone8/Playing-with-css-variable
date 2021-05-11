@@ -1,0 +1,2 @@
+setProperty('','','');
+It will take three arguments 1st one is property and seconds one is value and third one is priority.
